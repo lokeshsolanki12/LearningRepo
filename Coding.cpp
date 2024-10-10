@@ -425,4 +425,4 @@ int mian(){
     }
 }
 
-   // I am learn some different
+   // (Day 10 Oct.) I am learn some different
