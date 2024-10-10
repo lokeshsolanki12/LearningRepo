@@ -426,3 +426,4 @@ int mian(){
 }
 
    // (Day 10 Oct.) I am learn some different
+   // Today I am learn some different
